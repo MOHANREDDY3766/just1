@@ -1,0 +1,103 @@
+/*here we changed background  t r b l*/
+body {
+  background-image: url(https://wallpaperaccess.com/full/4723253.jpg);
+
+
+}
+
+#courage {
+  background-color: #ff4000;
+  text-align: center;
+
+
+}
+
+#peace {
+  background-color: whitesmoke;
+}
+
+#faith {
+  background-color: green;
+
+}
+
+h1,
+h1,
+h1 {
+  text-align: center;
+  outline-style: solid;
+
+  outline: white;
+  margin-left: 500px;
+
+  opacity: 12;
+  border-style: solid;
+  border-width: 10px 6px;
+  border-color: #ff4000 whitesmoke green;
+  background-color: whitesmoke;
+  height: 50;
+  width: 30;
+  border-radius: 100px;
+  padding: 10px 10px 10px 10px;
+}
+
+h2 {
+  text-transform: uppercase;
+  letter-spacing: 5px;
+  text-align-last: center;
+  color: whitesmoke;
+}
+/*fonts commands font-style font-weight tables */  
+table,th,td{
+  border: 1px solid;
+  width: 50%;
+  border-collapse: collapse;
+}
+th:hover {
+  height: 20px;
+  color: red;
+  background-color: white;
+  
+}
+tr:hover {
+  background-color:#0a8000;
+}
+h4 a {
+  color:red ;
+  text-transform: uppercase;
+  text-align-last:center;
+  font-size: 20px;
+  
+}
+h4 b {
+  color: white;
+   text-transform: uppercase;
+  text-align-last:center;
+  font-size: 20px;
+}
+h4 c {
+  
+  color: green;
+   text-transform: uppercase;
+  text-align-last:center;
+  font-size: 20px;
+}
+.dropdownbutton {
+  background-color: #91912b;
+  padding:12px;
+  cursor: pointer;
+  
+}
+
+
+}
+.dropdownmenu a:hover{
+  position: absolute;
+  text-decoration: silver;
+  display: block;
+  background-color: red;
+  
+}
+div[class]{
+  color: green;
+}
